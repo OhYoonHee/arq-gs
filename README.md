@@ -5,8 +5,7 @@ Unofficial Google app script library wrapper For the A.R.Q. API.
 Add this library id to your google app script project :\
 \
 New Editor : `1PMKY4mZKhqtQzaGPGXeAzC88Zj7U1NMr2sM0DHK-RrqsJ0bjWTF124Zu`\
-Legacy Editor : `AKfycbyRzb4FF0Ca19YYjgb97RUAx-bapPnH82jXjUxCjzC40Npb0YIj8O4rtGsnSyf3bGAw0A`\
-
+Legacy Editor : `AKfycbyRzb4FF0Ca19YYjgb97RUAx-bapPnH82jXjUxCjzC40Npb0YIj8O4rtGsnSyf3bGAw0A`
 
 ## Usage Example
 Example
